@@ -1,14 +1,5 @@
-- 👋 Hi, I’m @yonaharel
-- 👀 I’m interested in Mobile and Game Developement
-- 🌱 I’m currently learning Flutter and Unreal Engine     
-- 💞️ I’m looking to collaborate on iOS projects
-- 📫 How to reach me 
 
-<!---
-yonaharel/yonaharel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm Yona Harel</h1>
+<h1 align="center">Hi 👋, I'm Yona </h1>
 <h3 align="center">A passionate iOS developer from Israel working in @monday</h3>
 
 <h3 align="left">Connect with me:</h3>
